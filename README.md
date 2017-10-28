@@ -380,6 +380,7 @@ task clean(type: Delete) {
 
  探索有趣的新事物 
 Android、Kotlin、设计、产品、思考、游戏。
+
 ![image1](./screenshots/guanzhu.jpeg)
 
 长按关注
